@@ -32,9 +32,9 @@ El grupo tendra una sesión cada 2 semanas de max 2hrs el cual tendran actividad
 ## Registro
 >>> Poner un google form
 
-## Apoyo al grupo
-
-
+## Como contribuir 
+- Añadir material curado que crean relevante al tema
+- Proponerse como guias.
 
 ### Calendario tentativo
 >>> @olopezv ralle las que consiero que se pueden saltar
@@ -64,7 +64,5 @@ El grupo tendra una sesión cada 2 semanas de max 2hrs el cual tendran actividad
 
 
 
-### Como contribuir 
-- Añadir material curado que crean relevante al tema
-- Proponerse como guias.
+
 
