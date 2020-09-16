@@ -2,42 +2,49 @@
 This is a fork of: https://github.com/dair-ai/d2l-study-group
 ## About
 Grupo de estudio basado en: 
-- El libro ["Dive into Deep Learning"](https://d2l.ai/index.html) por Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola.
+- El libro ["Dive into Deep Learning"](https://d2l.ai/index.html) por Aston Zhang, Zack C. Lipton, Mu Li, y Alex J. Smola.
 - Grupo de estudio de https://github.com/dair-ai/d2l-study-group
 
-Organizadores: Toño y Gus
+Organizadores: Toño (j.diaz@opianalytics.com) y Gus (o.lopez@opianalytics.com)
 
-## Dinamica del grupo
-El grupo tendra una sesión cada 2 semanas de max 2hrs el cual tendran actividades previas, durante y despues de la sesión:
+## Dinámica del grupo
+El grupo tendrá una sesión cada 2 semanas de máximo 2 horas, y que tendrá actividades previas, durante y después de la sesión:
 
 ### Antes de la sesión
-- Se escogera un guia previamente elegido(voluntariamente), la regla es que cada sesion sea alguien diferente y pertenezca al grupo de estudio. 
-- Consumir el material asociado a la sesión(Lecturas, Videos, papers, etc.), hay material obligatorio y tambien hay material opcional.
+- Se determinará un guía para la sesión (voluntariamente), la regla es que cada sesión sea alguien diferente y pertenezca al grupo de estudio. 
+- Cada miembro deberá consumir el material asociado a la sesión (Lecturas, Videos, Papers, etc.); existirá material obligatorio así como material opcional.
 
 ### Durante la sesión
-- El guia seguira las slides hechas por el grupo de estudio original y tratara de resumir/explicar lo mas que pueda el material revisado en las 2 semanas anteriores.
-- Si el guia cree conveniente o importante agregar material o modificar los slides para explciar mejor el tema lo podra hacer a su criterio. Es decir no esta atado a las slides y material de la semana pero si al tema.
-- Si salen dudas entre todos las resolveremos, para que haya mas posibilidades de resolverlas el guia tendra la responsabilidad de consumir el 100% del material de esa semana.
+- El guía de la sesión seguirá las slides hechas por el grupo de estudio original y tratará de resumir/explicar lo más que pueda el material revisado de las 2 semanas anteriores.
+- Si el guía creé conveniente o importante agregar material o modificar los slides para explciar mejor el tema lo podrá hacer a su criterio. Es decir, no está atado a las slides y material de la semana pero sí al tema.
+- Si surgen dudas entre todos las resolveremos. Para que haya más posibilidades de resolverlas, el guía tendrá la responsabilidad de consumir el 100% del material de esa sesión.
 
-
-### Despúes de la sesión  **OPCIONAL** 
+### Después de la sesión  **OPCIONAL** 
 >>> @olopezv aqui lo podemos discutir mi idea es que de esa forma nos obligamos a no atrasarnos cuando no seamos guias
-- Se asignara el guia de la siguiente sesión en caso de que no haya uno.
-- Habra asignada un serie de ejercicios la cual se debera resolver y entregar 
+>>> @jadm-opi, es buena idea, creo que le tocaría al guía de esa sesión organizar la revisión cruzada rápido en la siguiente sesión.
+- Se asignará el guia de la siguiente sesión en caso de que no haya uno.
+- Habrá asignada un serie de ejercicios que deberán ser resueltos y entregados la siguiente sesión al guía de la sesión en curso. 
 >>> @olopezv no se me ocurre como se podra revisarla pero podria ser cross review
-- Se resolvera rapidamente la tarea al principio de la siguiente sesión 
+- Se resolverá rápidamente la tarea al principio de la siguiente sesión y se aclararán las dudas existentes.
 >>> @olopezv aqui podemos hacer una sesion de 30 min la siguiente semeana a la sesión larga y que el guia u otra persona exponga como hizo la tarea
-
+>>> @jadm-opi ¿No creés que sería mejor dejarla hasta la siguiente sesión? No sé, para que halla más chance de resolverla. Igual podría ser dejar un espacio antes de cada sesión para resolver rápido los ejercicios. La idea es que no tome mucho más tiempo.
 
 ## Registro
 >>> Poner un google form
+>>> @jadm-opi ¿Qué datos deberíamos preguntar a los que se quieran inscribir?
+- Datos básicos (nombre, contacto,
+- Intereses
+- Expectativas del curso
+- Comentarios
 
 ## Como contribuir 
-- Añadir material curado que crean relevante al tema
-- Proponerse como guias.
+- Añadir material curado que crean relevante al tema.
+- Proponerse como guías.
+- Realizar los ejercicios propuestos.
 
 ### Calendario tentativo
 >>> @olopezv ralle las que consiero que se pueden saltar
+>>> @jadm-opi Creo que también podríamos prescindir de la sesiones 7 y 9.
 
 
 | Chapter                                                        | Suggested Readings                                                                                            | Exercises                                                                                                | Date/Time                | Slides/Notebook                                                                                                                                                                                                                           | Recording                                              |
