@@ -38,7 +38,7 @@ Llenar el siguiente ["Formulario"](https://forms.gle/pMHcyafX4U5QAgMw7)
 
 ### Calendario tentativo
 >>> @olopezv creo que la 9 sirve para NLP, pero la 7 tienes razón, ya la ralle, Tambien ya nos autonombre guias de las dos primeras sesiones y aparte una de NLP, por si quieres apartar alguna.
->>> @olopezv Tambien agregue sesion 18 que creo que se debería dar despues de la segunda sesión en donde demos un resumen y comparaciones/diferencias de pythorch/tensorflow/mxnet, etc. Asi como herramientas extras (como ray, fastai, spark integration, sonnet, mlflow, etc.)
+>>> @olopezv Tambien agregue sesion 18 que creo que se debería dar despues de la segunda sesión en donde demos un resumen y comparaciones/diferencias de pythorch/tensorflow/mxnet, etc. Asi como herramientas extras (como gpus, tpus ,ray, fastai, spark integration, sonnet, mlflow, etc.)
 Total de sesiones: 15
 
 | Chapter                                                  | Guía | Suggested Readings                                                                                   | Exercises                                                                                                | Date/Time                | Slides/Notebook                                                                                                                                                                                                                           | Recording                                              |
