@@ -1,17 +1,16 @@
 # Chapter 2: Deep Learning Preliminaries
 In this chapter, you will be covering a few prelinaries that will help you develop basic skills needed to get started with deep learning. Some of these important preliminaries include data manipulation, data processing, linear algebra, calculus, automatic differentiation, and probability.
 
-## Linear Algebra and Calculus
+## Calculus
 
-
-### Papers 📄
-- [The Matrix Calculus You Need for Deep Learning](https://arxiv.org/abs/1802.01528) (by Terence Parr and Jeremy Howard)
 
 ### Articles/Chapters/Slides 📝
-- [Deep Learning - Linear Algebra](https://www.deeplearningbook.org/contents/linear_algebra.html) (by Ian Goodfellow and Yoshua Bengio and Aaron Courville)
+- [Dive into Deep Learning - Calculus](https://d2l.ai/chapter_preliminaries/calculus.html) **Obligatorio**
+- [Dive into Deep Learning -  Automatic Differentiation](https://d2l.ai/chapter_preliminaries/autograd.html) **Obligatorio**
 - [Deep Learning - Numerical Computation](https://www.deeplearningbook.org/contents/numerical.html) (by Ian Goodfellow and Yoshua Bengio and Aaron Courville)
 
 ### Videos 📺
+- [Stat 157](https://courses.d2l.ai/berkeley-stat-157/units/introduction.html)
 - [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) (by MIT, Gilbert Strang)
 - [Basic Calculus](https://www.calc1.org/videos/fall-20-online-w-butler) (by Steve Butler)
 - [Mathematics for Machine Learning - Multivariate Calculus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23) (by Imperial College London)
@@ -25,8 +24,6 @@ In this chapter, you will be covering a few prelinaries that will help you devel
 ### Recommended Books 📚
 - [Mathematics for Machine Learning](https://mml-book.github.io/) (by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) (by Michael Nielsen)
-- [Deep Learning](http://www.deeplearningbook.org/) (by Ian Goodfellow and Yoshua Bengio and Aaron Courville)
-- [Dive into Deep Learning](https://d2l.ai/index.html) (by Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola)
 
 
 ---

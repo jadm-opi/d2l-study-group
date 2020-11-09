@@ -3,6 +3,7 @@ This is a fork of: https://github.com/dair-ai/d2l-study-group
 ## About
 Grupo de estudio basado en: 
 - El libro ["Dive into Deep Learning"](https://d2l.ai/index.html) por Aston Zhang, Zack C. Lipton, Mu Li, y Alex J. Smola.
+- Curso de UC Berkeley [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
 - Grupo de estudio de https://github.com/dair-ai/d2l-study-group
 
 Organizadores: Toño (j.diaz@opianalytics.com) y Gus (o.lopez@opianalytics.com)
